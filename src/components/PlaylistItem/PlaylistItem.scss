@@ -1,0 +1,31 @@
+.item {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 15px;
+    cursor: pointer;
+    transition: .2s background-color ease;
+    &.active {
+        background-color: #2c2c2c;
+    }
+    &:not(:last-child) {
+        margin-bottom: 15px;
+    }
+    &:hover {
+        background-color: #2c2c2c;
+    }
+    &-info {
+        display: flex;
+        align-items: center;
+        &-avatar {
+            width: 60px;
+            height: 60px;
+            object-fit: cover;
+        }
+        &-title {
+            margin-left: 10px;
+            padding: 10px;
+        }
+    }
+}

@@ -1,0 +1,66 @@
+.playlist {
+    &-header {
+        padding: 5px;
+        h1 {
+            color: white
+        }
+    }
+    &-search {
+        display: flex;
+        border-bottom: 2px solid rgb(240, 240, 240);
+        margin: 15px;
+        &-icons {
+            width: 75px;
+            display: flex;
+            justify-content: space-between;
+            span {
+                &:last-of-type {
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
+
+.ant-input {
+    background-color: var(--chat-bg);
+    border: 0;
+    height: 38px;
+    padding: 5px 11px 6px; 
+    color: var(--text-color);
+    box-shadow: none !important;
+    font-size: 20px;
+    &:focus {
+        border-color: var(--scrollbar-color) !important;
+    }
+    &::placeholder {
+        font-size: 16px;
+    }
+  }
+  .customerCSS { 
+    .ant-popover-inner {
+       background-color: var(--chat-bg);
+       border-radius: 10px;
+    }
+    .ant-popover-title {
+        color: white;
+        text-align: center;
+
+    }
+ }
+ .ant-popover {
+    top: 74px !important
+ }
+ .sort-item {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px;
+    transition: background-color .2s linear;
+    &:hover {
+        background-color: aliceblue;
+        color: black;
+        border-radius: 5px;
+    }
+ }

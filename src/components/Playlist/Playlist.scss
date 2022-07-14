@@ -1,0 +1,9 @@
+.playlist {
+    width: 1000px;
+    margin: 30px auto 0px;
+    &-title {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 40px;
+    }
+}

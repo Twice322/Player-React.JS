@@ -1,0 +1,70 @@
+{
+    "songs": [
+        {
+            "src": "./songs/4n Way feat. MAYOT - Запал!.mp3",
+            "title": "Запал",
+            "duration": "1:37",
+            "image": "https://sun1-16.userapi.com/impf/I9Y5B5eWntWIwTu8mjphgHmZoqu1512PvOKlgw/LEl74NZUFkI.jpg?size=80x0&quality=90&sign=192f9bd64decddd67f2b52955f32b964",
+            "id": "1",
+            "author": "4n Way feat. MAYOT"
+        }, 
+        {
+            "src": "./songs/BUSHIDO ZHO - vodila.mp3",
+            "title": "vodila",
+            "duration": "1:50",
+            "image": "https://sun1-56.userapi.com/impf/oY5ppcaZO1Qckof2eKIgMmfesnbkhGOQTIMa-A/DJMmmi1znZI.jpg?size=80x0&quality=90&sign=6e33df3e9494f843018cec0b425468f6",
+            "id": "2",
+            "author": "BUSHIDO ZHO"
+        },
+        {
+            "src":"./songs/LOVV66 - Мое время.mp3",
+            "title": "Мое время",
+            "duration": "2:10",
+            "image": "https://sun1-94.userapi.com/impf/c850608/v850608486/1ddb62/wUWgrvuShvg.jpg?size=80x0&quality=90&sign=7756da4f725d5d9fc282be9be4b70a07",
+            "id": "3",
+            "author": "LOVV66"
+        },
+        {
+            "src": "./songs/LOVV66 - Трап Трап.mp3",
+            "title": "Трап Трап",
+            "duration": "2:09",
+            "image": "https://sun1-94.userapi.com/impf/c850608/v850608486/1ddb62/wUWgrvuShvg.jpg?size=80x0&quality=90&sign=7756da4f725d5d9fc282be9be4b70a07",
+            "id": "4",
+            "author": "LOVV66"
+    
+        },
+        {
+            "src": "./songs/LOVV66 feat. Ани Чеми - ЕЩЁ ЧАС.mp3",
+            "title": "ЕЩЕ ЧАС",
+            "duration": "2:36",
+            "image": "https://sun1-15.userapi.com/impf/9Q85bf4dWqh7sqJn2ESSBRDUy-P7LoKxqxcGtw/axplysnqvoM.jpg?size=80x0&quality=90&sign=8ff5f737e3706609550d36805efe9d91",
+            "id": "5",
+            "author": "LOVV66 feat. Ани Чеми"
+        },
+        {
+            "src": "./songs/MORGENSHTERN, Aarne - DALEKO.mp3",
+            "title": "Daleko",
+            "duration": "2:28",
+            "image": "https://sun1-27.userapi.com/impf/FYqUC2GgO55X6OnoQhqk1RXoEbMwq2J-yY_VIg/l2d7xL_od-8.jpg?size=80x0&quality=90&sign=4f5b4eab7aa7874332ff763936948d66",
+            "id": "6",
+            "author": "MORGENSHTERN, Aarne"
+        },
+        {
+            "src": "./songs/nkeeei, uniqe, ARTEM SHILOVETS feat. MAYOT - У У У.mp3",
+            "title": "У У У",
+            "duration": "2:38",
+            "image": "https://sun1-15.userapi.com/impf/6PhHtqQduDIFTPtOJU5QSjAC4dLrWEWgc0yQiA/gNe_3JdeCEk.jpg?size=80x0&quality=90&sign=9a5c119b67f776e0f5d392eb9a823bfb",
+            "id": "7",
+            "author": "nkeeei, uniqe, ARTEM SHILOVETS feat. MAYOT"
+        },
+        {
+            "src": "./songs/SODA LUV - Тысячи рук.mp3",
+            "title": "Тысяча рук",
+            "duration": "3:06",
+            "image": "https://sun1-83.userapi.com/impf/c855020/v855020838/257adc/83BTPHfLsWI.jpg?size=80x0&quality=90&sign=e7f638fa2647882285498bb2649c1b89",
+            "id": "8",
+            "author": "SODA LUV"
+    
+        }
+    ]
+}
