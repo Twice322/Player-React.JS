@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Player-React.JS/static/css/main.8ce62862.css",
+    "main.js": "/Player-React.JS/static/js/main.c93fcaa0.js",
+    "index.html": "/Player-React.JS/index.html",
+    "main.8ce62862.css.map": "/Player-React.JS/static/css/main.8ce62862.css.map",
+    "main.c93fcaa0.js.map": "/Player-React.JS/static/js/main.c93fcaa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ce62862.css",
+    "static/js/main.c93fcaa0.js"
+  ]
+}
